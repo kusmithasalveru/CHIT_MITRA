@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chit Mitra: Secure Digital Chit Fund Ecosystem
 
 > A production-grade, full-stack fintech platform designed to modernize and secure traditional chit fund management through transparent bidding, automated payments, and comprehensive analytics.
@@ -122,3 +123,6 @@ chit-mitra/
 
 ---
 *Built with ❤️ for secure community savings.*
+=======
+# CHIT_MITRA
+>>>>>>> 8387d32fc4f15b3594d410981a8ed06d085972ac
