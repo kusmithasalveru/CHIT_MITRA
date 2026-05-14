@@ -1,0 +1,7 @@
+com\chitmitra\controller\AuthController.class
+com\chitmitra\controller\ChitGroupController.class
+com\chitmitra\entity\Role.class
+com\chitmitra\ChitMitraApplication.class
+com\chitmitra\config\SecurityConfig.class
+com\chitmitra\entity\ChitGroup.class
+com\chitmitra\entity\User.class
